@@ -54,7 +54,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Ansh Agrawal',
     description: '',
     imageURL: '',
   },
