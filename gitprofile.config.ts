@@ -32,6 +32,7 @@ const CONFIG = {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
+        /*
         {
           title: 'Project Name',
           description:
@@ -48,6 +49,7 @@ const CONFIG = {
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
         },
+        */
       ],
     },
   },
@@ -80,20 +82,15 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
     'MySQL',
     'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'HTML',
+    'Python',
+    'Java',
+    'C++',
   ],
   experiences: [
     /*
