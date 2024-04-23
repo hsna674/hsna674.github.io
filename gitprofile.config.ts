@@ -19,8 +19,8 @@ const CONFIG = {
         sortBy: 'updated', // Sort projects by 'stars' or 'updated'
         limit: 8, // How many projects to display.
         exclude: {
-          forks: true, // Forked projects will not be displayed if set to true.
-          projects: ['hsna674/hsna674'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          forks: false, // Forked projects will not be displayed if set to true.
+          projects: ['hsna674/hsna674', 'hsna674/hsna674.github.io'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
