@@ -55,16 +55,16 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Ansh Agrawal',
-    description: '',
+    description: 'I have a passion for Cybersecurity and AI/ML.',
     imageURL: '',
   },
   social: {
-    linkedin: '',
+    linkedin: 'https://www.linkedin.com/in/ansh-agrawal-3b7a14356/',
     twitter: '',
     mastodon: '',
     researchGate: '',
     facebook: '',
-    instagram: '',
+    instagram: 'https://www.instagram.com/hsna_agrawal/',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
@@ -75,22 +75,25 @@ const CONFIG = {
     telegram: '',
     website: '',
     phone: '',
-    email: '',
+    email: 'hsna.agrawal@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      // 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JavaScript',
-    'MySQL',
-    'PostgreSQL',
     'Git',
     'CSS',
     'HTML',
     'Python',
     'Java',
     'C++',
+    'Forensics',
+    'Cryptography',
+    'Web Attacks',
+    'Netwroking',
+    'Machine Learning',
   ],
   experiences: [
     /*
